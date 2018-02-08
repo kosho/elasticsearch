@@ -121,3 +121,6 @@ include::analysis/tokenfilters.asciidoc[]
 include::analysis/charfilters.asciidoc[]
 
 // translate
+Another text
+
+
