@@ -56,3 +56,4 @@ include::cluster/nodes-hot-threads.asciidoc[]
 
 include::cluster/allocation-explain.asciidoc[]
 // translate
+// translate
