@@ -268,3 +268,4 @@ include::index-modules/store.asciidoc[]
 include::index-modules/translog.asciidoc[]
 
 include::index-modules/index-sorting.asciidoc[]
+// translate
