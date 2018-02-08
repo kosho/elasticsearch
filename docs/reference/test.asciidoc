@@ -6,11 +6,3 @@
 5. {test} is great.
 6. "test" is great.
 
-// translate
-// translate
-// translate
-// translate
-// translate
-// translate
-// translate
-// translate
