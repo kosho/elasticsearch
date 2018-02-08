@@ -170,3 +170,4 @@ include::mapping/params.asciidoc[]
 
 include::mapping/dynamic-mapping.asciidoc[]
 // translate
+// translate
