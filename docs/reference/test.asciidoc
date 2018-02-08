@@ -1,3 +1,4 @@
+0. `test` is great.
 1. +test+ is great.
 2. _test_ is great.
 3. [test] is great.
@@ -5,6 +6,7 @@
 5. {test} is great.
 6. "test" is great.
 
+// translate
 // translate
 // translate
 // translate
