@@ -110,3 +110,4 @@ include::indices/refresh.asciidoc[]
 include::indices/forcemerge.asciidoc[]
 
 // translate
+// translate
