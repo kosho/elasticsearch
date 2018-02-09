@@ -1,5 +1,9 @@
 sunny today.
 
+I like full text search.
+I like out of the box experience.
+The Elastic Stack is great.
+
 1. i'm fine
 2. you are fine
 
