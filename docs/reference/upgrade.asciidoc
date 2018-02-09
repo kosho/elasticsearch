@@ -75,3 +75,4 @@ include::upgrade/cluster_restart.asciidoc[]
 include::upgrade/reindex_upgrade.asciidoc[]
 // translate
 // translate
+// translate
