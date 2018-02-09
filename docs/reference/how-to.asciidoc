@@ -24,3 +24,4 @@ include::how-to/indexing-speed.asciidoc[]
 include::how-to/search-speed.asciidoc[]
 
 include::how-to/disk-usage.asciidoc[]
+// translate
