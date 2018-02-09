@@ -40,3 +40,4 @@ See <<ingest-apis,Ingest APIs>> for more information about creating, adding, and
 --
 
 include::ingest/ingest-node.asciidoc[]
+// translate
